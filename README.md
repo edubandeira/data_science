@@ -15,7 +15,6 @@ Um paranaense de 22 anos que atualmente mora em Cuiabá, curso o 3º ano de Ciê
 ### Links:
 
 * [LinkedIn](https://bit.ly/3xXsQFl)
-* [Instagram](https://bit.ly/3gbTCDX)
 * [Medium](https://bit.ly/2W2jEm5)
 
 ---
