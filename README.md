@@ -8,7 +8,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 
 ### Sobre mim:
 
-Um paranaense de 22 anos que atualmente mora em Cuiabá, curso o 3º ano de Ciências Contábeis na Universidade Federal de Mato Grosso e busco desenvolver minhas *skills* em Análise de Dados. Trabalho com *Audit* na KPMG Brasil, tenho familiaridade com o trabalho em equipe e o ceticismo profissional.
+Estudante do 3º ano de Ciências Contábeis na Universidade Federal de Mato Grosso e busco desenvolver minhas *skills* em Análise de Dados. Trabalho com *Audit* na KPMG Brasil, tenho familiaridade com o trabalho em equipe e o ceticismo profissional.
 
 ---
 
