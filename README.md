@@ -23,4 +23,4 @@ Estudante do 3º ano de Ciências Contábeis na Universidade Federal de Mato Gro
 
 ### Projetos:
 Análise de Dados em Jupyter Notebook:
-* [Análise do Airbnb - Oslo](github.com/edubandeira/data_science/blob/main/Análise%20Airbnb%20Oslo.ipynb)
+* [Análise do Airbnb - Oslo](https://github.com/edubandeira/data_science/blob/main/An%C3%A1lise%20Airbnb%20Oslo.ipynb)
