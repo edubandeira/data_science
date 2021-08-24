@@ -4,7 +4,7 @@
   <img src="https://github.com/edubandeira/data_science/blob/main/banner.png?raw=true" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
+Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning, bem como análises de dados em Power BI e artigos escritos sobre as análises e projetos desenvolvidos por mim.
 
 ---
 
