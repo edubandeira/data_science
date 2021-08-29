@@ -26,5 +26,5 @@ Análise de Dados em Jupyter Notebook:
 * [Análise do Airbnb - Oslo](https://github.com/edubandeira/data_science/blob/main/An%C3%A1lise%20Airbnb%20-%20Oslo.ipynb)
 
 ### Artigos:
-Artigos escritos no Medium:
+Artigos publicados no Medium:
 * [Análise do Airbnb - Oslo](https://medium.com/@edubandeira/oslo-capital-da-noruega-%C3%A9-uma-cidade-relativamente-pequena-quando-comparada-com-outras-capitais-b550c0f34f19)
